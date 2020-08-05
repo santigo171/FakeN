@@ -1,0 +1,10 @@
+No se tomaran en cuenta las tildes en este documento
+
+Estructura:
+-Pregunta problema
+-Lluvia de soluciones
+-Solucion tomada en cuenta
+-Ejecucion
+-Evaluacion
+-Correcciones
+-Final
