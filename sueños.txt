@@ -8,3 +8,5 @@ Estructura:
 -Evaluacion
 -Correcciones
 -Final
+
+Pregunta problema: ¿Como aprender en platzi online?
