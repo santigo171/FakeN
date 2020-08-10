@@ -1,7 +1,7 @@
 body {
   color: #333;
   text-align: center;
-  font-family: "calibri";
+  font-family: "Arial";
   font-size: 16px;
   margin: 0;
   padding: 0;
@@ -29,7 +29,6 @@ body {
   font-size: 20px;
   width: 70%;
   padding: 0.2cm 1cm;
-  border: 1px solid #DDD;
   margin: 0 auto;
 }
 
