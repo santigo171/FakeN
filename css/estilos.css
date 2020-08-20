@@ -37,3 +37,10 @@ body {
   font-weight: normal;
   font-size: 15px;
 }
+
+.footer {
+  background-color: black;
+  color: white;
+  padding: 0.2cm 0.8cm;
+  margin: 0 auto;
+}
