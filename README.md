@@ -7,6 +7,10 @@ Con este proyecto ya me siento listo para colaborar en repositorios de esta plat
 
 Por cierto, odio con toda mi alma al .DS_Store, con todita todita mi alma hijo de su madre
 
+¿Por qué melgas debe existir esto?
+
+Me molesta a todo momento
+
 
 
 [Platzi]: https://platzi.com/
