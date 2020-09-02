@@ -9,6 +9,8 @@ Por cierto, odio con toda mi alma al .DS_Store, con todita todita mi alma hijo d
 
 ¿Por qué melgas debe existir esto?
 
+Me molesta a todo momento
+
 
 
 [Platzi]: https://platzi.com/
